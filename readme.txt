@@ -4,3 +4,5 @@ Git is free software distributed under the GPL.
 工作区和暂存区
 Git tracks changes.
 Git tracks changes of files.
+My stupid boss still prefers SVN
+测试分支
